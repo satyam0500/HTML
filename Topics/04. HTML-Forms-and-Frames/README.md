@@ -391,6 +391,10 @@ _Note_: the target attribute applied to the <code>&lt;a&gt;</code> elements in t
 <!-- <img class="slide-image" showInPresentation="true" src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/revealjs-theme/css/imgs/questions-blue.png" style="width:60%; top:15%; left:10%" /> -->
 
 <!-- attr: { showInPresentation:true, hasScriptWrapper:true } -->
+
+# Use of icon in Html
+<!-- we can also insert a icon in the title using the href tag -->
+<link rel ="icon" href=url('image.jpg')/>
 # Free Trainings @ Telerik Academy
 - Web front-end track
     - [html.telerik.com](http://academy.telerik.com/student-courses/web-design-and-ui/about)
